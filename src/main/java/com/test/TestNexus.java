@@ -15,6 +15,7 @@ public class TestNexus {
         System.out.println(nexus.test("测试数据3!"));
         System.out.println(nexus.test("测试数据4dev!"));
         System.out.println(nexus.test("测试数据5msater!"));
+        System.out.println(nexus.test("测试数据5dev!"));
     }
 
 }
