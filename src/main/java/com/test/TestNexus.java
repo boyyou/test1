@@ -12,6 +12,7 @@ public class TestNexus {
         Nexus nexus = new Nexus();
         System.out.println(nexus.test("测试数据!"));
         System.out.println(nexus.test("测试数据2!"));
+        System.out.println(nexus.test("测试数据3!"));
     }
 
 }
